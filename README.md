@@ -1,4 +1,4 @@
-Link for the Dashboard: https://public.tableau.com/views/LoanApplicantAnalysisinIndia/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
+Link for the Dashboard: https://public.tableau.com/views/LoanApplicantAnalysisinIndia/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
 
 ### Project Overview:
 
